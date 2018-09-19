@@ -8,3 +8,6 @@
 * Supports the RISCV standard RV32IMA ISA
 * On-Chip debug unit with a JTAG interface
 * Two external AHB interfaces for IO and memory
+
+## Documentation
+See the [Documentation](https://github.com/RISCV-on-Microsemi-FPGA/Documentation) repository for more information
