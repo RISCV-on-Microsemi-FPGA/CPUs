@@ -16,7 +16,7 @@ This repository contains the Mi-V RISC-V CPUs packages, supporting IPs and relat
 * AHBL, APB3, and AXI3/AXI4 optional external bus interfaces
 
 ### Documentation
-See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) website for more information
+See the [Mi-V RISC-V Ecosystem](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) webpages for more information
 
 
 ## MiV_RV32IMA_L1_AHB
@@ -31,7 +31,7 @@ See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/521
 * Two external AHB interfaces for IO and memory
 
 ### Documentation
-See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) website for more information
+See the [Mi-V RISC-V Ecosystem](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) webpages for more information
 
 
 ## MiV_RV32IMA_L1_AXI
@@ -46,7 +46,7 @@ See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/521
 * Two external AXI interfaces for IO and memory
 
 ### Documentation
-See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) website for more information
+See the [Mi-V RISC-V Ecosystem](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) webpages for more information
 
 
 ## MiV_RV32IMAF_L1_AHB
@@ -61,4 +61,4 @@ See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/521
 * Two external AHB interfaces for IO and memory
 
 ### Documentation
-See the [Documentation](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) website for more information
+See the [Mi-V RISC-V Ecosystem](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#documents) webpages for more information
