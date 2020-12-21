@@ -1,4 +1,4 @@
-# MiV_RV32IMAF_L1_AHB
+# MiV_RV32
 
 
 ## Source RTL
